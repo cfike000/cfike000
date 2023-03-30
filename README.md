@@ -1,6 +1,6 @@
 # 👋 Carl Fike
 
-**`Digital Craftsman (Developer/Musician/Creative Thinker)`**
+**`Front End Developer (Developer/Musician/Creative Thinker)`**
 
 I'm an full-stack developer and content creator driven on delivering cutting edge code. My work is built from the ground up, with a focus on clean UX design and easy interactivity. I strive to create sites that are intuitive and easily understood. With my history with Three.js, I can also add interactive three dimensional components to sites! 
 
