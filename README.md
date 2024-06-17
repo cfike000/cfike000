@@ -1,11 +1,8 @@
 # 👋 Carl Fike
 
-**`Front End Developer (Developer/Musician/Creative Thinker)`**
+**`Full Stack Developer | Next.js | Python | SQL | PHP | React`**
 
-I'm an full-stack developer and content creator driven on delivering cutting edge code. My work is built from the ground up, with a focus on clean UX design and easy interactivity. I strive to create sites that are intuitive and easily understood. With my history with Three.js, I can also add interactive three dimensional components to sites! 
-
-If you have any questions or inquiries, please feel free to reach out! I'm currently searching for a job as a front-end developer and would love to chat.
-
+Highly focused and detail driven developer with over 3 years of expertise in Python, JavaScript, Node and SQL. Adept at building full stack scalable and responsive websites and managing back-end data. Capable of training AI models with natural language along with software development tasks.
 
 ---
 
