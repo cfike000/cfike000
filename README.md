@@ -1,4 +1,4 @@
-# 👋 Carl Fike
+# Carl Fike
 
 **`Full Stack Developer | Next.js | Python | SQL | PHP | React`**
 
